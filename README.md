@@ -54,7 +54,6 @@ I care about building things that work at scale — from LLM-powered features to
 **Cloud & Security**
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=auth0&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-003366?style=flat-square&logo=letsencrypt&logoColor=white)
 
