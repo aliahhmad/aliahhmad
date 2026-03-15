@@ -70,7 +70,7 @@ I care about building things that work at scale — from LLM-powered features to
 
 ## GitHub Stats
 
-![][Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliahhmad&theme=react-dark&hide_border=true)
+![Ali's GitHub Contribution Graph](https://ghchart.rshah.org/aliahhmad)
 
 ---
 
