@@ -71,7 +71,3 @@ I care about building things that work at scale — from LLM-powered features to
 ## About My Repos
 
 I'm fairly new to sharing work publicly on GitHub and have been uploading repositories recently. Most of my work — coursework, school assignments, and project solutions — is in **private repos**. If you'd like to take a look at any of them, just reach out and I'll share access.
-
----
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
