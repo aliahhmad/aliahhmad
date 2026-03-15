@@ -20,6 +20,7 @@ I care about building things that work at scale — from LLM-powered features to
 ## What I'm Building & Exploring
 
 | | |
+|---|---|
 | **Schdlr** | AI-powered booking platform helping small businesses scale with autonomous scheduling agents |
 | **OpenClaw Research** | Exploring OpenClaw's architecture and ecosystem — figuring out where it fits in the modern AI landscape |
 | **AWS Certifications** | Working toward Cloud Practitioner and Solutions Architect – Associate |
