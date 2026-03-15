@@ -20,14 +20,13 @@ I care about building things that work at scale — from LLM-powered features to
 ## What I'm Building & Exploring
 
 | | |
-|---|---|
 | **Schdlr** | AI-powered booking platform helping small businesses scale with autonomous scheduling agents |
 | **OpenClaw Research** | Exploring OpenClaw's architecture and ecosystem — figuring out where it fits in the modern AI landscape |
 | **AWS Certifications** | Working toward Cloud Practitioner and Solutions Architect – Associate |
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -49,7 +48,6 @@ I care about building things that work at scale — from LLM-powered features to
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -70,13 +68,9 @@ I care about building things that work at scale — from LLM-powered features to
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=aliahhmad&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=aliahhmad&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahhmad&theme=dark&hide_border=true&layout=compact)
+![][Ali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aliahhmad&theme=react-dark&hide_border=true)
 
 ---
 
