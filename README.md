@@ -68,12 +68,6 @@ I care about building things that work at scale — from LLM-powered features to
 
 ---
 
-## GitHub Stats
-
-![Ali's GitHub Contribution Graph](https://ghchart.rshah.org/aliahhmad)
-
----
-
 ## About My Repos
 
 I'm fairly new to sharing work publicly on GitHub and have been uploading repositories recently. Most of my work — coursework, school assignments, and project solutions — is in **private repos**. If you'd like to take a look at any of them, just reach out and I'll share access.
