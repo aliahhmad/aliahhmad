@@ -23,7 +23,15 @@ I care about building things that work at scale — from LLM-powered features to
 |---|---|
 | **Schdlr** | AI-powered booking platform helping small businesses scale with autonomous scheduling agents |
 | **OpenClaw Research** | Exploring OpenClaw's architecture and ecosystem — figuring out where it fits in the modern AI landscape |
-| **AWS Certifications** | Working toward Cloud Practitioner and Solutions Architect – Associate |
+| **AWS Certifications** | Working towards AWS Solutions Architect – Associate |
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner  
+  *Amazon Web Services (AWS)*  
+  Strengthened expertise in deploying scalable, cloud-based applications and understanding cloud infrastructure for AI-driven systems.
 
 ---
 
@@ -48,24 +56,28 @@ I care about building things that work at scale — from LLM-powered features to
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-**Cloud & Security**
+### AI / Machine Learning
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=auth0&logoColor=white)
-![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-003366?style=flat-square&logo=letsencrypt&logoColor=white)
-
-**AI / ML**
-
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![SAM | CLIP | ViT](https://img.shields.io/badge/SAM%20%7C%20CLIP%20%7C%20ViT-00BFFF?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
 ## About My Repos
 
 I'm fairly new to sharing work publicly on GitHub and have been uploading repositories recently. Most of my work — coursework, school assignments, and project solutions — is in **private repos**. If you'd like to take a look at any of them, just reach out and I'll share access.
+
+---
+
+## Let's Connect
+
+I'm always open to collaborating on interesting projects, especially in AI, full-stack systems, and cloud infrastructure.
+
+Feel free to reach out via LinkedIn or email!
